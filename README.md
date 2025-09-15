@@ -16,6 +16,7 @@ Implementing the home view of the reworked Path@Penn Course Registration on Mobi
 
 3. **View the app:**
    Open `http://localhost:3000` in your browser
+   
    Please view this using the Browser Dev Tool with dimension set to 402px by 874px for maximal quality.
 
 ## Attributions
